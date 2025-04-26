@@ -1,0 +1,2 @@
+# No external libraries required.
+# This project uses only built-in Python modules: random, time, collections, heapq.
