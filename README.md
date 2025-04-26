@@ -12,3 +12,7 @@ The system uses two queues, a Landing Queue and a Takeoff Queue while maintainin
 
 ## Installation
 1. Install Python 3.8+
+2. Clone this repository or download the project files.
+
+
+
